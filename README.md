@@ -11,6 +11,6 @@ To run the code use the following command:
 
 Dataset is a file that contains Stack Overflow questions in the below CSV format:  
 ```
-"python","Question Title","Question content."
+"label","Question Title","Question content."
 ...
 ```
